@@ -53,7 +53,7 @@ export default function userRegister() {
                 <div className="hidden bg-cover lg:block lg:w-1/2">
                     <img
 
-                        src="https://lilymanga.com/wp-content/uploads/2019/12/Citrus-Yuri-Manga.jpg" />
+                        src="https://i.pinimg.com/originals/c2/5b/9d/c25b9dd1ae1888b1714f8b2c0888a50c.jpg" />
                 </div>
 
 
@@ -73,7 +73,7 @@ export default function userRegister() {
                             <path strokeLinecap="round" strokeLinejoin="round" stroke-width="2" d="M17.657 18.657A8 8 0 016.343 7.343S7 9 9 10c0-2 .5-5 2.986-7C14 5 16.09 5.777 17.656 7.343A7.975 7.975 0 0120 13a7.975 7.975 0 01-2.343 5.657z"></path>
                             <path strokeLinecap="round" strokeLinejoin="round" stroke-width="2" d="M9.879 16.121A3 3 0 1012.015 11L11 14H9c0 .768.293 1.536.879 2.121z"></path>
                         </svg>
-                        MANGASAN
+                        COMPANY
                     </a>
 
                     <p className="text-xl text-center text-gray-600 dark:text-gray-200">Welcome back!</p>
